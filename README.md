@@ -1,12 +1,12 @@
 # **Secure ML-Powered Financial Transactions**  
-Secure and decentralized financial transactions using predictive models with ML + Blockchain  
+Secure and decentralized financial transactions using predictive models with ML + Blockchain 
 
 ## **Project Overview**  
 This project leverages Machine Learning (ML) and Blockchain technologies to enable secure, transparent, and decentralized financial transactions. By combining ML-based predictive models with blockchain's immutable ledger, the system ensures data security and fraud detection while maintaining transparency and decentralization.  
 
 
 ## **Key Features**  
-**Secure ML-based predictions** – Predict financial outcomes using ML models.  
+**Secure ML-based predictions** – Predict financial outcomes using ML models. \n
 **Blockchain-based decentralization** – Ensures tamper-proof and transparent transaction records.  
 **Flask-based API** – Provides a simple interface for transaction execution and monitoring.  
 **Fraud detection** – ML model identifies suspicious transaction patterns.  
